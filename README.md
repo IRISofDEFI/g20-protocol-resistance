@@ -1,7 +1,10 @@
 # Welcome to the G20 Project
 
-## Project Info
+## Project Info: 
+G20 COIN
+The world's most secure meme coin. Power. Politics. Protocols.
 
+20 Nations. 19 Captives. 1 Hope. 1 Coin.
 **URL**: Coming soon...
 
 ## How Can I Edit This Code?
@@ -16,10 +19,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/IRISofDEFI/g20-protocol-resistance.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd g20-protocol-resistance
 
 # Step 3: Install the necessary dependencies.
 npm i
