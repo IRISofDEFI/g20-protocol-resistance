@@ -5,7 +5,7 @@ G20 COIN
 The world's most secure meme coin. Power. Politics. Protocols.
 
 20 Nations. 19 Captives. 1 Hope. 1 Coin.
-**URL**: Coming soon...
+**URL**: https://g20-protocol-resistance.vercel.app/
 
 ## How Can I Edit This Code?
 
