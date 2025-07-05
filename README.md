@@ -26,6 +26,7 @@ npm install
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ** Made website designs
+still in progress...
 
 Yes, you can!
 
